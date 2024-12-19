@@ -1,4 +1,4 @@
-# QR Code Guided Robot with Obstacle Detection
+# Smart Load Carrier
 
 This project implements a robot capable of detecting QR codes and navigating based on their position. The robot also avoids obstacles using an ultrasonic sensor. The motors are controlled via GPIO on a Raspberry Pi.
 
